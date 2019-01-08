@@ -1,5 +1,9 @@
 # Welcome to Milwaukee Azure Dev Days
 
+## Join the Azure Technical Community Linkedin Group
+
+- Join the group here to interact w/ Microsoft Azure experts [here](https://www.linkedin.com/groups/8715103/)
+
 ## Survey for event
 
 - If you attended, please fill out the survey [here](http://aka.ms/ncrdevdayssurvey)
