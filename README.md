@@ -1,4 +1,4 @@
-# Welcome to Milwaukee Azure Dev Days
+# Welcome to Philly Azure Dev Days
 
 ## Join the Azure Technical Community Linkedin Group
 
@@ -10,23 +10,13 @@
 
 ## Presenters
 
-- [Mike Shelton - Data & AI Technical Director](https://www.linkedin.com/in/mshelt/)
-- [Dan Gartner - Azure Apps & Infrastructure Technical Director](https://www.linkedin.com/in/dgartner/)
-- [Kenny Young - Cloud Solution Architect](https://www.linkedin.com/in/kennydyoung/)
-- [Frank Migacz - Azure App Service](https://www.linkedin.com/in/fmigacz/)
-- [Greg Hoelzer - Serverless & Containers](https://www.linkedin.com/in/gregoryhoelzer/)
-- [Dave Burnison - DevOps](https://www.linkedin.com/in/daveburnison/)
-
-
-## Partners
-
-- [Docker](https://www.docker.com)
+- [Rahul Marathe - App Dev TSP](https://www.linkedin.com/in/mshelt/)
+- [Rich Ross - Azure App Dev Techical Architect](https://www.linkedin.com/in/rrossmsft/)
 
 ## Azure Learning Resources for Developers
 
 - [Microsoft Connect() 2018](https://www.microsoft.com/en-us/connectevent/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-
 
 ## Azure Functions
 
