@@ -1,17 +1,19 @@
 # Welcome to Philly Azure Dev Days
 
-## Join the Azure Technical Community Linkedin Group
-
-- Join the group here to interact w/ Microsoft Azure experts [here](https://www.linkedin.com/groups/8715103/)
-
-## Survey for event
-
-- If you attended, please fill out the survey [here](http://aka.ms/ncrdevdayssurvey)
-
 ## Presenters
 
 - [Rahul Marathe - Azure Architect](https://www.linkedin.com/in/rahulvmarathe/)
 - [Rich Ross - Azure App Dev Techical Architect](https://www.linkedin.com/in/rrossmsft/)
+
+## Local Azure Developer Community Content
+
+Meetings
+- [Philly .NET User Group](https://meetup.com/Philly-NET)
+- [Philly Azure](https://meetup.com/Philly-Azure)
+
+Video Content
+- [Philly .NET YouTube Channel](https://youtube.com/Phillydotnet)
+- [Philly Azure YouTube Channel](https://youtube.com/phillyazure)
 
 ## Azure Learning Resources for Developers
 
