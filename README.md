@@ -10,7 +10,7 @@
 
 ## Presenters
 
-- [Rahul Marathe - App Dev TSP](https://www.linkedin.com/in/mshelt/)
+- [Rahul Marathe - Azure Architect](https://www.linkedin.com/in/rahulvmarathe/)
 - [Rich Ross - Azure App Dev Techical Architect](https://www.linkedin.com/in/rrossmsft/)
 
 ## Azure Learning Resources for Developers
